@@ -63,7 +63,7 @@ author:
   location: "Umeå, Sweden"
   links:
     - label: "sumaye.jafarie@gmail.com"
-      icon: "fab fa-fw fa-regular fa-envelope"
+      icon: "fab fa-fw fa-regular fa-envelope-square"
       url: "mailto:sumaye.jafarie@gmail.com"
     - label: "G Scholar"
       icon: "fab fa-fw fa-google"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "sumaye.jafarie@gmail.com"
-      icon: "fab fa-fw fa-regular fa-envelope"
+      icon: "fab fa-fw fa-regular fa-envelope-square"
       url: "mailto:sumaye.jafarie@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

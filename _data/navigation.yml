@@ -1,8 +1,6 @@
 main:
   - title: "Start"
     url: /
-  - title: "About me"
-    url: /about/
   - title: "Publications"
     url: /publications/
   - title: "Other"

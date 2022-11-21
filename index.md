@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: "About me"
 ---
 
 ## test 2

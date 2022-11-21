@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: https://somayej.github.io/
+title: Somayeh Jafari
 email: sumaye.jafarie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Somaye Jafaritazehjanis personal and professional website
+  Somayeh Jafaritazehjanis personal and professional website
 # twitter_username: username
 github_username: somayeJ
 minimal_mistakes_skin: default
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Somayeh Jafari"
+  name: "Somayeh Jafaritazehjani"
   avatar: "/assets/images/sj.jpg"
   bio: "PhD graduate of Natural Language Processing, Machine Learning and AI."
   links:

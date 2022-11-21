@@ -63,26 +63,32 @@ author:
   bio: "PhD graduate of Natural Language Processing, Machine Learning and AI."
   links:
     - label: "sumaye.jafarie@gmail.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-regular fa-envelope"
       url: "mailto:sumaye.jafarie@gmail.com"
     - label: "G Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=oXyz8zgAAAAJ&hl=sv&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/somayeJ"
+      url: "https://github.com/somayeJ?tab=repositories"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/somayeh-jafaritazehjani-5ba84397/"
 
 footer:
   links:
     - label: "sumaye.jafarie@gmail.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-regular fa-envelope"
       url: "mailto:sumaye.jafarie@gmail.com"
     - label: "G Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=oXyz8zgAAAAJ&hl=sv&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/somayeJ"
+      url: "https://github.com/somayeJ?tab=repositories"
+          - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/somayeh-jafaritazehjani-5ba84397/"
 
 defaults:
   # _posts

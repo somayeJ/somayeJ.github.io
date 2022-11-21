@@ -54,3 +54,7 @@ Costello: That's what I want to find out. I want you to tell me the names of the
 Here is an example of an image
 
 ![img](../assets/images/sj.jpg)
+
+## Formula
+
+$$ (a+b)^2 = a^2 + 2ab + b^2

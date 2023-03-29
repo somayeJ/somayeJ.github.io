@@ -10,7 +10,7 @@ title: "Publications"
 </ul>
 
 
-<h2>Interntaional conferences and Journals</h2>
+<h2>Interntaional Conferences and Journals</h2>
 <ul>
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
@@ -32,7 +32,7 @@ Albert Gatt <em>Proceedings of the 27th International Conference on Computationa
 </ul>
 
 
-<h2>National conferences</h2>
+<h2>National Conferences</h2>
 <ul>
   <li>Formatives and phonological reasons for inserting them in word structure.  Jafaritazehjani Somayeh, Eslami Moharram 
   <em>The third national conference of linguistics and teaching Persian language. Mashhad, Iran. 2016</em>.</li>

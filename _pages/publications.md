@@ -10,10 +10,10 @@ title: "Publications"
 </ul>
 
 
-<h2>Paper</h2>
+<h2>Interntaional conferences and Journals</h2>
 <ul>
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>2023</em>.</li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>.</li>
   
@@ -24,7 +24,22 @@ Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>P
 Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>.</li>
   <li>  Multi‑task dialog act and sentiment recognition on Mastodon
 Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>
-   <li>Grounded Textual Entailment  <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>
+   <li>Grounded Textual Entailment Hoa Trong Vu, Claudio Greco, Aliia Erofeeva, Somayeh Jafaritazehjani, Guido Linders, Marc Tanti, Alberto Testoni, Raffaella Bernardi,
+Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>  
+  
 
+   <li>The effect of pitch accent shift in Persian word‑forms on stressed syllables Jafaritazehjani Somayeh, Eslami Moharram <em>The 1st International Symposium on Applied Phonetics, Nagoya, Japan. 2016</em>.</li>  
+</ul>
+
+
+<h2>National conferences</h2>
+<ul>
+  <li>Formatives and phonological reasons for inserting them in word structure.  Jafaritazehjani Somayeh, Eslami Moharram 
+  <em>The third national conference of linguistics and teaching Persian language. Mashhad, Iran. 2016</em>.</li>
+
+    <li>Studying the changes happening while transforming the formal forms of the verbs into informal forms and presenting a morphological parser
+for spoken (informal) verbs.
+      Jafaritazehjani Somayeh, Bahrani Mohammad
+  <em>The first national conference of Persian language and internet. Institute for humanities and cultural studies. Tehran, Iran. 2013</em>.</li>
   
 </ul>

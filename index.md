@@ -4,12 +4,10 @@ author_profile: true
 title: "About me"
 ---
 
-## test 2
+## PhD graduate, Natural Language Processing, Text generation, Deep learning, Machine learning
 
 **test**
-
-hey hey
+I am a researcher in the scope of Natural Language Processing (NLP) focusing on machine learning and deep learning algorithms and their applications to NLP related tasks. and  searching  for relevant positions.
 
 ---
-
-hey hey 2
+While doing my PhD in  collaboration of the TU Dublin and university of Rennes 1,  I worked on textual style transfer.

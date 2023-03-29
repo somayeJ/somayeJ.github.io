@@ -17,12 +17,14 @@ Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>.</li>
   
-  <li>SStyle versus Content: A distinction without a (learnable) difference?
+  <li>Style versus Content: A distinction without a (learnable) difference?
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>.</li>
   
- <li>  <em>ICANN, 2021</em>.</li>
-  <li>  <em>ICANN, 2021</em>.</li>
-   <li>  <em>ICANN, 2021</em>.</li>
-   <li>  <em>ICANN, 2021</em>.</li>
+ <li>Visually grounded generation of entailments from premises
+Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>.</li>
+  <li>  Multi‑task dialog act and sentiment recognition on Mastodon
+Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>
+   <li>Grounded Textual Entailment  <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>
+
   
 </ul>

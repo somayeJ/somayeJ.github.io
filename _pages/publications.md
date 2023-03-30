@@ -5,9 +5,11 @@ title: "Publications"
 
 <h2>Thesis</h2>
 <ul>
-  <li>Somayeh Jafaritazehjani: Towards an improved understanding of the concept of style and its implications for textual style transfer</li>
-  <li>I think 1969 was second best.</li>
+  <li>Somayeh Jafaritazehjani: Towards an improved understanding of the concept of style and its implications for textual style transfer, <em>2023</em>, Thesis of PhD, TU Dublin, Dublin, Ireland. </li>
+  <li>IFrom Entailment to Generation: Generating sentences entailed by visual and textual input, <em>2018</em>, <a href="https://lct-master.org/getfile.php?id=3823&n=1&dt=TH&ft=pdf&type=TH">Thesis of Masters</a>. </li>
 </ul>
+
+
 
 
 <h2>Interntaional Conferences and Journals</h2>

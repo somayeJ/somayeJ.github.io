@@ -53,7 +53,7 @@ Albert Gatt <em>Proceedings of the 27th International Conference on Computationa
   
 
    <li>The effect of pitch accent shift in Persian word‑forms on stressed syllables <br> Somayeh  Jafaritazehjani, Moharram Eslami  <em>The 1st International Symposium on Applied Phonetics, Nagoya, Japan. 2016</em>.</li>  
-</ul>
+
 
 
 <h2>National Conferences</h2>

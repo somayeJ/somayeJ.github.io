@@ -26,7 +26,9 @@ Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <e
   
   
   <li>Style versus Content: A distinction without a (learnable) difference?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper</a>. </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="https://github.com/somayeJ/RNN-based-TST-experiments">Code</a>. </li>
+
+
   
  <li>Visually grounded generation of entailments from premises
 Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>, <a href=" https://aclanthology.org/W19-8625/">Paper</a>. </li>

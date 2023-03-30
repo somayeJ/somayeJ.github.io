@@ -9,8 +9,7 @@ You'll find this post in your `_posts` directory. Go ahead and edit it and re-bu
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-## Code
-
+<!--## Code
 Jekyll also offers powerful support for code snippets:
 
 ```python
@@ -18,7 +17,7 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> prints 'Hi, Tom' to STDOUT.a --> 
 ```
 
 ## Links
@@ -38,11 +37,9 @@ Here is an example of links. One is to [TU Dublin][tu-dublin] and another to [Un
 
 Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
 
-Costello: Funny names?
 
-Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who's on first, What's on second, I Don't Know is on third--
 
-Costello: That's what I want to find out. I want you to tell me the names of the fellows on the St. Louis team.
+
 <!--
 ## Images
 

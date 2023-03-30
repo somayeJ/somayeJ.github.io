@@ -19,7 +19,7 @@ title: "Publications"
  
 
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality<br>
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>, <a href="https://github.com/somayeJ/Transformer-based-style-transfer">Code</a>.</li>
+<h3>Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>, <a href="https://github.com/somayeJ/Transformer-based-style-transfer">Code</a>. </h3></li>
   
   
   

@@ -12,12 +12,16 @@ title: "Publications"
 
 <h2>Interntaional Conferences and Journals</h2></li>
 <ul>
- <li>L  <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>
+ 
 
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
+  
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>.</li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper link</a> </li>
+  
+
+  
   
   <li>Style versus Content: A distinction without a (learnable) difference?
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>.</li>

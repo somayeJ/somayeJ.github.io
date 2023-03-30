@@ -1,9 +1,9 @@
 ---
 permalink: /other/
-title: "Other"
+title: "Other projects"
 ---
 
-## OTHER ttt
+## Student
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -43,7 +43,7 @@ Costello: Funny names?
 Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who's on first, What's on second, I Don't Know is on third--
 
 Costello: That's what I want to find out. I want you to tell me the names of the fellows on the St. Louis team.
-
+<!--
 ## Images
 
 Here is an example of an image
@@ -52,4 +52,4 @@ Here is an example of an image
 
 ## Formula
 
-$$ (a+b)^2 = a^2 + 2ab + b^2 $$
+$$ (a+b)^2 = a^2 + 2ab + b^2 $$a --> 

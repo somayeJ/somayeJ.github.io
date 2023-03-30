@@ -10,8 +10,10 @@ title: "Publications"
 </ul>
 
 
-<h2>Interntaional Conferences and Journals</h2>
+<h2>Interntaional Conferences and Journals</h2></li>
 <ul>
+ <li>L  <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>
+
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?

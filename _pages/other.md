@@ -4,18 +4,15 @@ title: "Other projects"
 ---
 
 ## Joint Modelling of Dialog Acts and Sentiment Analysis using Neural Networks
-This projrct started as a semester project focusing on "Twitter dialoue act modeling"  using the Twitter data as the dataset. Then, we extended the project by using multi‑task techniques and framing dialog act and sentiment recognition together using the data of  Mastodon (while working as an intern in  <a href="https://synalp.gitlabpages.inria.fr/synalp-website/">Loria, SyNaLP Team</a>, under the supervison of Christiphe Cerisara).
+This projrct started as a semester project focusing on "Twitter dialoue act modeling"  using the Twitter data. Then, we extended the project by using multi‑task techniques and framing dialog act and sentiment recognition together using the data of  Mastodon (while working as an intern in  <a href="https://synalp.gitlabpages.inria.fr/synalp-website/">Loria, SyNaLP Team</a>, under the supervison of Christiphe Cerisara).
 
 
 
-## Links
 
-Here is an example 
 
-## Quote
+## EMOTEX: Detecting Emotions in Twitter Messages using Neural Networks
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+This project was done in university of Malta where  the Twitter data was used.
 
 ## Chat
 

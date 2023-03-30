@@ -10,11 +10,7 @@ This projrct started as a semester project focusing on "Twitter dialoue act mode
 
 ## Links
 
-Here is an example of links. One is to [TU Dublin][tu-dublin] and another to [Université de Rennes][uni-de-rennes].
-
-[tu-dublin]: https://www.tudublin.ie/
-[uni-de-rennes]: https://www.univ-rennes1.fr/
-[link-name]: https://put-adress.here/
+Here is an example 
 
 ## Quote
 
@@ -29,6 +25,15 @@ Abbott: Strange as it may seem, they give ball players nowadays very peculiar na
 
 
 <!--
+## Links
+
+Here is an example of links. One is to [TU Dublin][tu-dublin] and another to [Université de Rennes][uni-de-rennes].
+
+[tu-dublin]: https://www.tudublin.ie/
+[uni-de-rennes]: https://www.univ-rennes1.fr/
+[link-name]: https://put-adress.here/
+
+
  ## Code
 Jekyll also offers powerful support for code snippets:
 

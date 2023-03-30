@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<h2>Thesis</h2>
+<h2>Theses</h2>
 <ul>
   <li>Somayeh Jafaritazehjani: Towards an improved understanding of the concept of style and its implications for textual style transfer, <em>2023, Thesis of PhD, TU Dublin, Dublin, Ireland</em>. </li>
   

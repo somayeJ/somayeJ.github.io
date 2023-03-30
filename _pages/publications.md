@@ -38,7 +38,7 @@ Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proc
   
   
    <li>Grounded Textual Entailment Hoa Trong Vu, Claudio Greco, Aliia Erofeeva, Somayeh Jafaritazehjani, Guido Linders, Marc Tanti, Alberto Testoni, Raffaella Bernardi,
-Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>, <a href="https://aclanthology.org/C18-1199/">Paper link</a>, <a href="  https://github.com/claudiogreco/coling18-gte">Paper link</a>, <a href="https://github.com/claudiogreco/coling18-gte"> Code link</a>, <a href="  https://github.com/claudiogreco/coling18-gte">Paper link</a>.</li>  
+Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>, <a href="https://aclanthology.org/C18-1199/">Paper link</a>, <a href="https://github.com/claudiogreco/coling18-gte"> Code link</a>.</li>  
   
 
     

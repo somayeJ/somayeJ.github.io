@@ -14,7 +14,7 @@ This projrct started as a semester project focusing on "Twitter dialoue act mode
 
 This project which was done in university of Malta as a semester  focused on developing models that predict an emoji
 given a tweet as a part of the  <a href="https://alt.qcri.org/semeval2018/index.php?id=tasks"> SemEval-2018. 
-Task 2, SyNaLP Team</a>.
+Task 2</a>.
 
 
 

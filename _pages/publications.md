@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<h2>Theses</h2>
+<h2>Thesis</h2>
 <ul>
   <li>Somayeh Jafaritazehjani: Towards an improved understanding of the concept of style and its implications for textual style transfer, <em>2023, Thesis of PhD, TU Dublin, Dublin, Ireland</em>. </li>
   
@@ -21,7 +21,7 @@ title: "Publications"
  
 
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality<br>
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>, <a href="https://github.com/somayeJ/Transformer-based-style-transfer">Code</a>. </li>
+<h3>Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>, <a href="https://github.com/somayeJ/Transformer-based-style-transfer">Code</a>. </h3></li>
   
   
   

@@ -18,20 +18,30 @@ title: "Publications"
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
   
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href=" [ https://aclanthology.org/2020.coling-main.197/](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39)">Paper link</a> </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href=" [ https://aclanthology.org/2020.coling-main.197/](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39)">Paper link</a>. </li>
   
 
   
   
   <li>Style versus Content: A distinction without a (learnable) difference?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper link</a>, code  </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper link</a>. </li>
   
  <li>Visually grounded generation of entailments from premises
-Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>.</li>
+Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>, <a href=" https://aclanthology.org/W19-8625/">Paper link</a>. </li>
+ 
+  
+  
   <li>  Multi‑task dialog act and sentiment recognition on Mastodon
-Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>
+Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>,  <a href="https://aclanthology.org/C18-1063/">Paper link</a>. </li>
+  
+  
+  
+  
    <li>Grounded Textual Entailment Hoa Trong Vu, Claudio Greco, Aliia Erofeeva, Somayeh Jafaritazehjani, Guido Linders, Marc Tanti, Alberto Testoni, Raffaella Bernardi,
-Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>.</li>  
+Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>, <a href="https://aclanthology.org/C18-1199/">Paper link</a>, <a href="  https://github.com/claudiogreco/coling18-gte">Paper link</a>, <a href="https://github.com/claudiogreco/coling18-gte"> Code link</a>, <a href="  https://github.com/claudiogreco/coling18-gte">Paper link</a>.</li>  
+  
+
+    
   
 
    <li>The effect of pitch accent shift in Persian word‑forms on stressed syllables Jafaritazehjani Somayeh, Eslami Moharram <em>The 1st International Symposium on Applied Phonetics, Nagoya, Japan. 2016</em>.</li>  

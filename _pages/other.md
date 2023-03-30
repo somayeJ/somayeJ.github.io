@@ -12,11 +12,13 @@ This projrct started as a semester project focusing on "Twitter dialoue act mode
 
 ## EMOTEX: Detecting Emotions in Twitter Messages using Neural Networks
 
-This project was done in university of Malta where  the Twitter data was used.
+This project which was done in university of Malta as a semester  focused on developing models that predict an emoji
+given a tweet as a part of the  <a href="https://alt.qcri.org/semeval2018/index.php?id=tasks"> SemEval-2018. 
+Task 2, SyNaLP Team</a>.
 
-## Chat
 
-Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.
+
+
 
 
 

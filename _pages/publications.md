@@ -10,7 +10,7 @@ title: "Publications"
 </ul>
 
 
-<h2>Interntaional Conferences and Journals</h2></li>
+<h2>Interntaional Conferences and Journals</h2>
 
  
 
@@ -26,7 +26,8 @@ Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <e
   
   
   <li>Style versus Content: A distinction without a (learnable) difference?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="https://github.com/somayeJ/RNN-based-TST-experiments">Code</a>. </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="https://aclanthology.org/2020.coling-main.197/">Paper</a>, <a href="https://github.com/somayeJ/RNN-based-TST-experiments">Code</a>. </li>
+
 
 
   

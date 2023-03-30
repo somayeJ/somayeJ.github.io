@@ -18,13 +18,13 @@ title: "Publications"
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
   
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper link</a> </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href=" [ https://aclanthology.org/2020.coling-main.197/](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39)">Paper link</a> </li>
   
 
   
   
   <li>Style versus Content: A distinction without a (learnable) difference?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>.</li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John Kelleher, <em>Proceedings of the 28th International Conference on Computational Linguistics, 2020, Barcelona, Spain</em>, <a href="  https://aclanthology.org/2020.coling-main.197/">Paper link</a>, code  </li>
   
  <li>Visually grounded generation of entailments from premises
 Somayeh Jafaritazehjani, Albert Gatt, Marc Tanti  <em>Proceedings of the 12th International Conference on Natural Language Generation, 2019</em>.</li>

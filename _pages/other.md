@@ -4,8 +4,7 @@ title: "Other projects"
 ---
 
 ## Joint Modelling of Dialog Acts and Sentiment Analysis using Neural Networks
-This projrct started as a semester project focusing on "Twitter dialoue act modeling" while using the Twitter data as the dataset. Then, we extended the project by using multi‑task techniques and framing dialog act and sentiment recognition together using the data of  Mastodon.  and  then we continued working on where I collaborated with   Loria, SyNaLP Team.
-under the supervison of Christiphe Cerisara
+This projrct started as a semester project focusing on "Twitter dialoue act modeling"  using the Twitter data as the dataset. Then, we extended the project by using multi‑task techniques and framing dialog act and sentiment recognition together using the data of  Mastodon (while working as an intern in Loria, SyNaLP Team, under the supervison of Christiphe Cerisara).
 
 
 

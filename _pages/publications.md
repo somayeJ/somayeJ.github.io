@@ -8,7 +8,7 @@ title: "Publications"
   <li>Somayeh Jafaritazehjani: Towards an improved understanding of the concept of style and its implications for textual style transfer, <em>2023, Thesis of PhD, TU Dublin, Dublin, Ireland</em>. </li>
   <li>From Entailment to Generation: Generating sentences entailed by visual and textual input, <em>2018, <a href="https://lct-master.org/getfile.php?id=3823&n=1&dt=TH&ft=pdf&type=TH">Thesis of Masters</a></em>. </li>
   
-    <li>From Entailment to Generation: Generating sentences entailed by visual and textual input, <em>2018</em>, <a href="https://lct-master.org/getfile.php?id=3823&n=1&dt=TH&ft=pdf&type=TH">Thesis of Masters</a>. </li>
+
 </ul>
 
 

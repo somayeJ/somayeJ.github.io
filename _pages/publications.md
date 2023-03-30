@@ -18,7 +18,7 @@ title: "Publications"
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
   
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href=" [ https://aclanthology.org/2020.coling-main.197/](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39)">Paper</a>. </li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39">Paper</a>. </li>
   
 
   

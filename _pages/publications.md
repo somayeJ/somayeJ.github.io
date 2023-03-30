@@ -11,11 +11,13 @@ title: "Publications"
 
 
 <h2>Interntaional Conferences and Journals</h2></li>
-<ul>
+
  
 
   <li>Local or Global: Understanding the Variation in the Encoding of Style Across Sentiment and Formality
-Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>.</li>
+Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D Kelleher, <em>Under review, 2023</em>, <a href="https://github.com/somayeJ/Transformer-based-style-transfer">Code</a>.</li>
+  
+  
   
   <li>Style as Sentiment Versus Style as Formality: The Same or Different?
 Somayeh Jafaritazehjani, Gwénolé Lecorvé, Damien Lolive, John D. Kelleher, <em>ICANN, 2021</em>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_39">Paper</a>. </li>
@@ -38,7 +40,7 @@ Christophe Cerisara, Somayeh Jafaritazehjani, Adedayo Oluokun, Hoa T Le <em>Proc
   
   
    <li>Grounded Textual Entailment Hoa Trong Vu, Claudio Greco, Aliia Erofeeva, Somayeh Jafaritazehjani, Guido Linders, Marc Tanti, Alberto Testoni, Raffaella Bernardi,
-Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>, <a href="https://aclanthology.org/C18-1199/">Paper </a>, <a href="https://github.com/claudiogreco/coling18-gte"> Code </a>.</li>  
+Albert Gatt <em>Proceedings of the 27th International Conference on Computational Linguistics, 2018</em>, <a href="https://aclanthology.org/C18-1199/">Paper</a>, <a href="https://github.com/claudiogreco/coling18-gte"> Code</a>.</li>  
   
 
     
